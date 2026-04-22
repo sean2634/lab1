@@ -1,0 +1,3 @@
+[submodule "AKPS"]
+	path = AKPS
+	url = https://github.com/shgamingcorner-dev/AKPS.git
